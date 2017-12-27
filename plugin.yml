@@ -1,6 +1,6 @@
 name: VoteReward
 version: 1.0.0
-api: [3.0.0-ALPHA9, 3.0.0-ALPHA10]
+api: [CLA, 3.0.0-ALPHA9, 3.0.0-ALPHA10]
 main: VoteReward\Main
 author: LDX, xXNiceYT
 
